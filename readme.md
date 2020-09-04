@@ -5,11 +5,7 @@ Hi, I'm Diego Cabrera, a Software Engineer Student from Mexico
 - 🔭 I’m currently taking a Bachelor's Degree
 - 🌱 I’m currently learning Tensorflow and Django
 - ⚡ Fun fact: I love to learn new things
-- 📫 How to reach me:
-
-<center>
-<a href="https://www.linkedin.com/in/diegocabreranieto/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"></a>
-</center>
+- 📫 Reach me [Here](https://www.linkedin.com/in/diegocabreranieto/)
 
 ---
 
