@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego!👋
 
-Hi, I'm Diego Cabrera, a Software Engineer Student from Mexico
+I'm a Software Engineer Student from Mexico
 
 - 🔭 I’m currently taking a Bachelor's Degree
 - 🌱 I’m currently learning Tensorflow and Django
