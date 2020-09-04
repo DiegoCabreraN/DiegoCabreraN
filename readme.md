@@ -33,4 +33,3 @@ I'm a Software Engineer Student from Mexico
 [![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoCabreraN&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/DiegoCabreraN)
 
 </div>
----
