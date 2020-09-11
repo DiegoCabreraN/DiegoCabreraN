@@ -1,4 +1,4 @@
-### Hi there, I'm Diego!👋
+### Hi there!👋
 
 I'm a Software Engineer Student from Mexico
 
