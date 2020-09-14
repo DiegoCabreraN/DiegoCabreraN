@@ -1,8 +1,8 @@
 ### Hi there!👋
 
-I'm a Software Engineer Student from Mexico
+I'm a Computer Science Student from Mexico
 
-- 🔭 I’m currently taking a Bachelor's Degree
+- 🔭 I’m currently taking a Bachelor's Degree in Computer Science and Engineering
 - 🌱 I’m currently learning Tensorflow and Django
 - ⚡ Fun fact: I love to learn new things
 - 📫 Reach me [Here](https://www.linkedin.com/in/diegocabreranieto/)
