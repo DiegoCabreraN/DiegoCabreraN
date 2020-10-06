@@ -18,7 +18,12 @@ I'm a Computer Science Student from Mexico
   </thead>
   <tbody>
     <tr>
-      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+      <td>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> 
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> 
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+      </td>
       <th><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> </th>
     </tr>
   </tbody>
