@@ -26,7 +26,6 @@ I'm a Computer Science Student from Mexico
       <th>
       	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
       	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"> 
-      	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> 
       	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> 
       	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
       </th>
