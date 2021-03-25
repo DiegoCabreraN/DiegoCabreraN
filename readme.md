@@ -3,7 +3,7 @@
 I'm a Computer Science Student from Mexico
 
 - 🔭 I’m currently taking a Bachelor's Degree in Computer Science and Engineering
-- 🌱 I’m currently learning Pytorch
+- 🌱 I’m currently learning MXNet
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories, trying to read undocumented code achieves the same effect and does not burn calories.
 - 📫 Reach me [Here](https://www.linkedin.com/in/diegocabreranieto/)
 
