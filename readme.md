@@ -3,7 +3,6 @@
 I'm a Computer Science Student from Mexico
 
 - 🔭 I’m currently taking a Bachelor's Degree in Computer Science and Engineering
-- 🌱 I’m currently learning MXNet
 - 📫 Reach me [Here](https://www.linkedin.com/in/diegocabreranieto/)
 
 ---
