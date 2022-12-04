@@ -1,31 +1,54 @@
 ### Hi there!👋
 
-I'm a Computer Science Student from Mexico
+I'm a Software Developer from Mexico
 
-- 🔭 I’m currently taking a Bachelor's Degree in Computer Science and Engineering
 - 📫 Reach me [Here](https://www.linkedin.com/in/diegocabreranieto/)
 
 ---
-
+### My Skill Set
 <table>
   <thead>
     <tr>
-      <th style="text-align:center;">Languages</th>
-      <th style="text-align:center;">Tools</th>
+      <th style="text-align:center;">Front End</th>
+      <th style="text-align:center;">Back End</th>
+      <th style="text-align:center;">DevOps</th>
+      <th style="text-align:center;">Data Science</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
+      <th>
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg" />
+        <mg height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      </th>
+      <th>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-      </td>
-      <th>
-      	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
-      	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"> 
-      	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> 
       	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      </th>
+      <th>
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+      	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> 
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      	<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
+      </th>
+      <th>
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+        <img height="40" src="https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png" />
       </th>
     </tr>
   </tbody>
@@ -33,4 +56,5 @@ I'm a Computer Science Student from Mexico
 
 ---
 
+### Github Stats
 [![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoCabreraN&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/DiegoCabreraN)
